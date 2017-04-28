@@ -11,12 +11,13 @@ Installation :
 
 1 - create a React-native project  </br>
       react-native init CheckList </br>
-2 - cd Checklist</br>
+2 - cd CheckList</br>
 3 - Download the index.ios/android and replace it with this one.</br>
 4 - Download and replace package.json file</br>
-5 - npm install</br>
-6 - react-native link</br>
-7 - react-native run-ios or react-native run-android</br>
+5 - Download the scr folder</br>
+6 - npm install</br>
+7 - react-native link</br>
+8 - react-native run-ios or react-native run-android</br>
 
 
 <br><br><br>
