@@ -25,5 +25,5 @@ Preview :
 <br>
 <br>
 
-<a href="http://ibb.co/c4OR5k"><img src="http://thumb.ibb.co/c4OR5k/Screen_Shot_2017_04_28_at_3_40_01_PM.png" alt="Screen_Shot_2017_04_28_at_3_40_01_PM" border="0"></a> <a href="http://ibb.co/hThay5">
-<img src="http://thumb.ibb.co/hThay5/Screen_Shot_2017_04_28_at_3_40_10_PM.png" alt="Screen_Shot_2017_04_28_at_3_40_10_PM" border="0"></a>
+<a href="http://ibb.co/c4OR5k"><img src="http://thumb.ibb.co/c4OR5k/Screen_Shot_2017_04_28_at_3_40_01_PM.png" alt="Screen_Shot_2017_04_28_at_3_40_01_PM" border="1"></a> <a href="http://ibb.co/hThay5">
+<img src="http://thumb.ibb.co/hThay5/Screen_Shot_2017_04_28_at_3_40_10_PM.png" alt="Screen_Shot_2017_04_28_at_3_40_10_PM" border="1"></a>
